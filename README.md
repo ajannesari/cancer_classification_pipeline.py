@@ -1,4 +1,4 @@
-# Computational Biology & AI Basics 🧬📊
+# Computational Biology & AI Basics 
 
 Welcome to my first hands-on repository! This project serves as the foundation of my transition from Software Engineering and IT into **Bioinformatics and Computational Biology**.
 
